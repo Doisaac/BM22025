@@ -18,7 +18,7 @@ En cada carpeta encontrarás la siguiente estructura:
 
 - `archivo.asm`: Este archivo contiene el código fuente en lenguaje ensamblador.
 - `archivo.o`: Este archivo es el resultado de compilar el código fuente en lenguaje ensamblador. Es un archivo objeto.
-- `archivo sin extensión`: Archivo Ejecutable 
+- `archivo sin extensión`: Archivo ejecutable (mediante la terminal)
 
 La anterior estructura te permite distinguir entre los diferentes tipos de archivos que pueden encontrarse
 dentro de la carpeta que contiene cada ejercicio y entender su propósito.
